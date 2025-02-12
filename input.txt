@@ -1,0 +1,5 @@
+message:"This is a test message"
+maximum_msg_size:5
+window_size:4
+timeout:2
+
